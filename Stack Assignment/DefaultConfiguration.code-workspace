@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "..\\Java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"cmath": "cpp",
+			"functional": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"numeric": "cpp",
+			"ostream": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"iostream": "cpp",
+			"new": "cpp",
+			"type_traits": "cpp",
+			"string_view": "cpp",
+			"array": "cpp",
+			"tuple": "cpp"
+		}
+	}
+}
